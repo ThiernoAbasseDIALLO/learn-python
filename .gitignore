@@ -1,0 +1,7 @@
+# garder que ces dossiers
+/learn-python
+
+# Enlever ces fichiers ou dossiers
+../.venv
+.idea
+*.xml
